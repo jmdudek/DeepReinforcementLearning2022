@@ -1,4 +1,4 @@
-name: drl_hw4
+name: drl
 channels:
   - defaults
 dependencies:
