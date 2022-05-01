@@ -1,4 +1,4 @@
-name: drl
+name: DRL
 channels:
   - defaults
 dependencies:
