@@ -1,0 +1,13 @@
+name: drl_hw4
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - svgpath2mpl
+    - svgpathtools
+
