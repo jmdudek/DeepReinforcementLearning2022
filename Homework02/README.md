@@ -10,3 +10,5 @@ Or add the following packages yourself:
 - ```matplotlib```
 - ```svgpathtools```
 - ```svgpath2mpl```
+
+Robot icon made by Freepik from http://www.flaticon.com/free-icon/robot_115339 is licensed by CC 3.0 BY
