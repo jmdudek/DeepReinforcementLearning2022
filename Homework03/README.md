@@ -6,5 +6,6 @@ To run the homework download this repo and create a new environment using the pr
 and activate the environment with: ```conda activate DRL_HW03```
 
 
+## Final Training Performance:
 https://user-images.githubusercontent.com/64156238/175301410-cfc34336-abaf-4e65-a4c1-bb14b11ff3c2.mp4
 
