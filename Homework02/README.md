@@ -1,3 +1,5 @@
+# Homework 02 - Tabular Q-Learning
+
 This folder contains the feedbacks for Homework01 and the coding task from Homework02.
 
 To run the homework download this repo and create a new environment using the provided ```yml``` file. Run ```conda env create -f environment.yml``` for creating it
